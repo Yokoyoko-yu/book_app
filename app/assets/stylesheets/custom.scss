@@ -1,0 +1,15 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+.top_band{
+    background-color: #c86e04;
+    height: 77px;
+    align-items: center;
+}
+.top_band p{
+    color: #fff;
+    height: 100%;
+    font-size: 40px;
+    margin: 0;
+}
